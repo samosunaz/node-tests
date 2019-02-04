@@ -1,0 +1,27 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Testing examples using Mocha and Chai",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samosunaz/node-tests.git"
+  },
+  "author": "Samuel Osuna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samosunaz/node-tests/issues"
+  },
+  "homepage": "https://github.com/samosunaz/node-tests#readme"
+}
